@@ -9,6 +9,6 @@
 - 📫 How to reach me ...
 
 <!---
-17777279273/17777279273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yyyokay/yyyokay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
